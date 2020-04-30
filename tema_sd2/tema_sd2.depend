@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588273989 source:c:\codeblocks\tema_sd2\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<climits>
+
